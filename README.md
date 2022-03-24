@@ -1,4 +1,4 @@
-# README - Learning Journey step 7
+# README - School Of Code - Stage 2 Step 7
 
 ## 7.2 - Your Tribute Page
 
